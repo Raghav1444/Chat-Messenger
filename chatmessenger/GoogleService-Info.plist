@@ -7,34 +7,34 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>133824096872-vf94e2k1fpfof6c7pl8iqu2j8bcv3ap3.apps.googleusercontent.com</string>
+	<string>99511719938-san30a3k01u01fq7ffaa7c4es06lj46u.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.133824096872-vf94e2k1fpfof6c7pl8iqu2j8bcv3ap3</string>
+	<string>com.googleusercontent.apps.99511719938-san30a3k01u01fq7ffaa7c4es06lj46u</string>
 	<key>API_KEY</key>
-	<string>AIzaSyAWLhhQCF3fdwCGhionv3LxGLZ4WzvYdUA</string>
+	<string>AIzaSyA6DpuPVj7ZuVcv7VaM4UWpJmSCJRmpuW0</string>
 	<key>GCM_SENDER_ID</key>
-	<string>133824096872</string>
+	<string>99511719938</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.chatmessenger</string>
 	<key>PROJECT_ID</key>
-	<string>chatmessenger-1234</string>
+	<string>chatmesseger-17b5b</string>
 	<key>STORAGE_BUCKET</key>
-	<string>chatmessenger</string>
+	<string>chatmesseger-17b5b.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
-	<true/>
+	<true></true>
 	<key>IS_ANALYTICS_ENABLED</key>
-	<false/>
+	<false></false>
 	<key>IS_APPINVITE_ENABLED</key>
-	<false/>
+	<false></false>
 	<key>IS_GCM_ENABLED</key>
-	<true/>
+	<true></true>
 	<key>IS_SIGNIN_ENABLED</key>
-	<true/>
+	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:133824096872:ios:24f42250beaebe46</string>
+	<string>1:99511719938:ios:245148fa589ba3ab</string>
 	<key>DATABASE_URL</key>
-	<string>https://chatmessenger.firebaseio.com</string>
+	<string>https://chatmesseger-17b5b.firebaseio.com</string>
 </dict>
 </plist>
